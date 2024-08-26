@@ -1,0 +1,8 @@
+names:
+- lays-large
+- lays-small
+- milo-180ml
+- slice-200ml
+nc: 4
+train: D:\work\personal\Smart Cashier\prepared_dataset\train/images
+val: D:\work\personal\Smart Cashier\prepared_dataset\val/images

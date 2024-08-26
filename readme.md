@@ -4,6 +4,7 @@ The SmartScan Billing Assistant is a computer vision-based project designed to a
 
 ## Table of Contents
 - [Overview](#overview)
+- [Project Demo](#project-demo)
 - [Dataset Preparation](#dataset-preparation)
 - [Model Training](#model-training)
 - [Testing and Evaluation](#testing-and-evaluation)
@@ -17,6 +18,10 @@ The project aims to simplify the billing process in supermarkets and retail stor
 2. Augmenting the dataset to improve model generalization.
 3. Training a YOLOv8 model on the augmented dataset.
 4. Testing the model's performance in a real-time environment.
+
+## Project Demo
+![output_image](https://github.com/user-attachments/assets/ae1fbf45-58fb-4ed6-9b21-7d4dac020b8f)
+
 
 ## Dataset Preparation
 ### Data Collection and Annotation
